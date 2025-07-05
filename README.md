@@ -4,18 +4,22 @@ Here you'll find some of the projects I'm working on. To learn more about me, ch
 
 # Software
 
-<a href="https://github.com/axseem/dirmd">
-    <img src="./dirmd.svg" alt="dirmd Project Logo">
+<a href="https://github.com/axseem/ezen">
+    <img src="./ezen.svg" alt="ezen Project Logo">
 </a>
 <a href="https://github.com/axseem/pixv">
     <img src="./pixv.svg" alt="pixv Project Logo">
+</a>
+<a href="https://github.com/axseem/dirmd">
+    <img src="./dirmd.svg" alt="dirmd Project Logo">
 </a>
 <a href="https://github.com/axseem/website">
     <img src="./axseem.svg" alt="website Project Logo">
 </a>
 
-- **[dirmd](https://github.com/axseem/dirmd)** —  Bundle directories into a single Markdown file.
+- **[ezen](https://github.com/axseem/ezen)** - Game development made easy.
 - **[pixv](https://github.com/axseem/pixv)** — Vectorize your pixel art.
+- **[dirmd](https://github.com/axseem/dirmd)** —  Bundle directories into a single Markdown file.
 - **[website](https://github.com/axseem/website)** — My site with a blog, projects, public diary, gallery and more.
 
 # Hardware
